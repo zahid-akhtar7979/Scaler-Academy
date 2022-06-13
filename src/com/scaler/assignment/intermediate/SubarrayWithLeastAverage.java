@@ -1,4 +1,4 @@
-package com.scaler.assignment.intermediate.BasicMaths;
+package com.scaler.assignment.intermediate;
 
 import java.util.ArrayList;
 import java.util.Arrays;
